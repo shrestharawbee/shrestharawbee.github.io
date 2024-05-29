@@ -10,8 +10,8 @@
 # General
 --------------------------------------------------------------*/
 @font-face {
-  font-family: 'benella';
-  src: url(Benalla.ttf);
+  font-family: 'La Estroma';
+  src: url(La Estroma.ttf);
 }
 body {
   font-family: "Open Sans", sans-serif;
@@ -33,7 +33,7 @@ body::before {
   z-index: -1;
 }
 .name-text{
-  font-family: benella;
+  font-family:La Estroma;
 }
 @media (min-width: 1024px) {
   body::before {
